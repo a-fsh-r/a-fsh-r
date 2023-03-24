@@ -1,6 +1,6 @@
-👋🏻
-Graduate Research Assistant at Biomedical Signal and Image Processing Laboratory (BiSIPL) ~ Electrical Engineering Department. 
-Sharif University of Technology
+👋🏻 Hi!!
+
+I am a Graduate Research Assistant at Biomedical Signal and Image Processing Laboratory (BiSIPL) ~ Electrical Engineering Department ~ Sharif University of Technology.
 
 <!---
 a-fsh-r/a-fsh-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
