@@ -8,7 +8,7 @@ Robust and Interpretable Machine Learning Laboratory (RIML) ~ [Computer Engineer
 
 - [Sharif University of Technology](https://en.sharif.edu/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=blueberry)
 
 <!---
 a-fsh-r/a-fsh-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
