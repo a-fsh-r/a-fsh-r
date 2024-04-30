@@ -1,6 +1,6 @@
 Hi!! 👋🏻
 
-I am a Graduate Research Assistant at
+I'm a Graduate Research Assistant at
 
 Biomedical Signal and Image Processing Laboratory (BiSIPL) ~ [Electrical Engineering Department](https://www.ee.sharif.edu/) and
 
