@@ -8,7 +8,7 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 
 - **Robust and Interpretable Machine Learning Laboratory (RIML)**  
   *Computer Engineering Department*  
-  [Explore RIML]([https://github.com/rohban-lab])
+  [Explore RIML](https://github.com/rohban-lab)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=nord_dark)
 
