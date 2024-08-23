@@ -8,7 +8,7 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 
 - **Robust and Interpretable Machine Learning Laboratory (RIML)**  
   *Computer Engineering Department*  
-  [Explore RIML on GitHub](https://github.com/rohban-lab) | [Visit the RIML Website](https://rohban-lab.github.io/) | [Dr. Rohban’s Website](https://sharif.edu/~rohban/) - Learn more about my supervisor, Dr. Rohban.
+  [Explore RIML on GitHub](https://github.com/rohban-lab) | [Visit the RIML Website](https://rohban-lab.github.io/) | [Dr. Rohban’s Website](https://sharif.edu/~rohban/) - Visit the website of my supervisor, Dr. Rohban.
 
 ---
 
