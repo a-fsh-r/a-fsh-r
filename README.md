@@ -9,6 +9,17 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 - **Robust and Interpretable Machine Learning Laboratory (RIML)**  
   *Computer Engineering Department*  
   [Explore RIML](https://github.com/rohban-lab)
+
+---
+
+### 🧠 Research Interests:
+- Medical/Biomedical Signal and Image Processing
+- Machine/Deep Learning
+- Explainable Artificial Intelligence (XAI)
+
+### 📫 Get in Touch:
+- [LinkedIn](#) (Add your LinkedIn profile link)
+- [Email](mailto:prs_a@yahoo.com) (Add your email address)
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=nord_dark)
 
