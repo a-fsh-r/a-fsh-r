@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&size=14&color=0000FF&vCenter=true&width=900&height=30&lines=%F0%9F%94%AD+I%E2%80%99m+a+Graduate+Research+Assistant+at+Sharif+University+of+Technology)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&size=14&color=1E90FF&vCenter=true&width=900&height=30&lines=%F0%9F%8C%B1+I%E2%80%99m+working+in+Biomedical+Signal+Processing+and+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&size=14&color=1E90FF&vCenter=true&width=900&height=30&lines=%F0%9F%92%AA+I%E2%80%99m+working+in+Biomedical+Signal+Processing+and+Machine+Learning)](https://git.io/typing-svg)
 
 - **Biomedical Signal and Image Processing Laboratory (BiSIPL)**  
   *Electrical Engineering Department*  
