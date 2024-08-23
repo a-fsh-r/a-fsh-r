@@ -4,7 +4,7 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 
 - **Biomedical Signal and Image Processing Laboratory (BiSIPL)**  
   *Electrical Engineering Department*  
-  [Explore BiSIPL](https://www.ee.sharif.edu/)
+  [Explore BiSIPL](https://ee.sharif.edu/~fatemizadeh/)
 
 - **Robust and Interpretable Machine Learning Laboratory (RIML)**  
   *Computer Engineering Department*  
