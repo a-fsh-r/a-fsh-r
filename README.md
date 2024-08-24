@@ -18,6 +18,7 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 - Artificial Intelligence in Medicine
 - Explainable Artificial Intelligence (XAI)
 - Signal Processing
+- Neuroscience
 
 ---
 
