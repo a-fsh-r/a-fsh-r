@@ -1,6 +1,6 @@
 ### Hi there! 👋🏻
 
-I’m a Graduate Research Assistant at Sharif University of Technology, where I work in two exciting laboratories:
+I’m a Graduate Research Assistant at Sharif University of Technology, where I work in two labs:
 
 - **Biomedical Signal and Image Processing Laboratory (BiSIPL)**  
   *Electrical Engineering Department*  
