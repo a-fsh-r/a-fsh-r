@@ -22,18 +22,6 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-fsh-r&layout=compact&theme=aura)
-
-<!-- ![Fangfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-fsh-r&show_icons=true&theme=aura) -->
-
-
-## <center> Visitor Count
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/a-fsh-r/count.svg" />
-</p>
-
----
-
 ### 📫 Get in Touch:
 Don’t hesitate to get in touch if you have any questions, want to brainstorm ideas, or simply want to connect!
 - [Email](mailto:prs_a@yahoo.com)
