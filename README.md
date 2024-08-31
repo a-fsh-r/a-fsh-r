@@ -25,9 +25,7 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 ### 📫 Get in Touch:
 Don’t hesitate to get in touch if you have any questions, want to brainstorm ideas, or simply want to connect!
 - [Email](mailto:prs_a@yahoo.com)
-- [Google Scholar](https://scholar.google.com/)
 - [Linkedin](https://www.linkedin.com/in/afsharprs/)
-- [Homepage](https://a-fsh-r.github.io/)
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=nord_dark)
 
