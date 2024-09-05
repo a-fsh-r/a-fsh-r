@@ -1,4 +1,9 @@
-### Hi there! 👋🏻
+<h1 align="left">
+    <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="a-fsh-r" height="32" />
+    <u>
+        About me:
+    </u>
+</h1>
 
 I’m a Graduate Research Assistant at Sharif University of Technology, where I work in two labs:
 
