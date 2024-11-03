@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://avatars.githubusercontent.com/u/54026464?s=400&u=eac4c2dbd1b6ff624e43e0e78b556f27783033bf&v=4" alt="a-fsh-r" height="32" />
+    <img src="https://avatars.githubusercontent.com/u/54026464?s=400&u=eac4c2dbd1b6ff624e43e0e78b556f27783033bf&v=4" alt="a-fsh-r" height="64" />
     <u>
         About me:
     </u>
