@@ -32,7 +32,7 @@ Don’t hesitate to get in touch if you have any questions, want to brainstorm i
 - [Email](mailto:prs_a@yahoo.com)
 - [Linkedin](https://www.linkedin.com/in/afsharprs/)
   
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=nord_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=algolia)
 
 <!---
 a-fsh-r/a-fsh-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
