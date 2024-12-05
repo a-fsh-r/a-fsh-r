@@ -8,13 +8,10 @@
 I’m a Graduate Research Assistant at Sharif University of Technology, where I work in two labs:
 
 - **Biomedical Signal and Image Processing Laboratory (BiSIPL)**  
-  *Electrical Engineering Department*  
-  [Explore BiSIPL](https://ee.sharif.edu/~fatemizadeh/) - Visit the website of my supervisor, Dr. Fatemizadeh.
-
+  *Electrical Engineering Department*
+  
 - **Robust and Interpretable Machine Learning Laboratory (RIML)**  
   *Computer Engineering Department*  
-  [Explore RIML on GitHub](https://github.com/rohban-lab) | [Visit the RIML Website](https://rohban-lab.github.io/) | [Dr. Rohban’s Website](https://sharif.edu/~rohban/) - Visit the website of my supervisor, Dr. Rohban.
-
 ---
 
 ### 🧠 Research Interests:
