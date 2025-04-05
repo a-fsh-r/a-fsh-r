@@ -16,8 +16,8 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 
 ### 🧠 Research Interests:
 - Machine/Deep Learning
-- AI in Medicine/Healthcare
 - Explainable Artificial Intelligence (XAI)
+- AI in Medicine/Healthcare
 - Medical/Biomedical Image Analysis and Processing
 
 ---
