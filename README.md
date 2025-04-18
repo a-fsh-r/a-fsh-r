@@ -21,11 +21,6 @@ I’m a Graduate Research Assistant at Sharif University of Technology, where I 
 - Medical/Biomedical Image Analysis and Processing
 
 ---
-
-### 📫 Get in Touch:
-Don’t hesitate to get in touch if you have any questions, want to brainstorm ideas, or simply want to connect!
-- [Email](mailto:prs_a@yahoo.com)
-- [Linkedin](https://www.linkedin.com/in/afsharprs/)
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=algolia)
 
