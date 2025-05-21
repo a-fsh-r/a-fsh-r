@@ -17,6 +17,7 @@ I completed my MSc. in Computer Engineering with a specialization in Bioinformat
 ### 🧠 Research Interests:
 - Machine/Deep Learning
 - Explainable Artificial Intelligence (XAI)
+- LLM
 - AI in Medicine/Healthcare
 - Medical/Biomedical Image Analysis and Processing
 
