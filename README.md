@@ -10,7 +10,7 @@ I completed my MSc. in Computer Engineering with a specialization in Bioinformat
 - **[Biomedical Signal and Image Processing Laboratory (BiSIPL)](https://ee.sharif.edu/~fatemizadeh/)**  
   *Electrical Engineering Department*
   
-- **Robust and Interpretable Machine Learning Laboratory (RIML)**  
+- **[Robust and Interpretable Machine Learning Laboratory (RIML)](https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/)**  
   *Computer Engineering Department*  
 ---
 
