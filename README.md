@@ -7,7 +7,7 @@
 
 I completed my MSc. in Computer Engineering with a specialization in Bioinformatics at Sharif University of Technology, where I had the opportunity to contribute to cutting-edge research as a Research Assistant in two renowned laboratories:
 
-- ****
+****
 - **Biomedical Signal and Image Processing Laboratory (BiSIPL)**  
   *Electrical Engineering Department*  
   
