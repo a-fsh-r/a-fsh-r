@@ -5,22 +5,29 @@
     </u>
 </h1>
 
-I completed my MSc. in Computer Engineering with a specialization in Bioinformatics at Sharif University of Technology, where I had the opportunity to contribute to cutting-edge research as a Research Assistant in two renowned laboratories:
+🎓 I recently completed **my Master of Science in Computer Engineering – Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/), where I worked as a **Graduate Research Assistant** during my studies.
 
+During this time, I was involved in research at two laboratories:
 
-- **Biomedical Signal and Image Processing Laboratory (BiSIPL)**  
-  *Electrical Engineering Department*  
-  
-- **Robust and Interpretable Machine Learning Laboratory (RIML)**  
-  *Computer Engineering Department*  
+- 🩺 **[Biomedical Signal and Image Processing Laboratory (BiSIPL)](https://ee.sharif.edu/~fatemizadeh/)**  
+  *Department of Electrical Engineering*  
+  Supervised by [Professor Emad Fatemizadeh](https://ee.sharif.edu/~fatemizadeh/)  
+  I worked on biomedical image analysis using deep learning methods, with a focus on diagnostic applications.
+
+- 🤖 **[Robust and Interpretable Machine Learning Laboratory (RIML)](https://rohban-lab.github.io/)**  
+  *Department of Computer Engineering*  
+  Supervised by [Professor Mohammad Hossein Rohban](http://sharif.ir/~rohban/)  
+  My work focused on interpretable and robust machine learning models, particularly for bioinformatics and computer vision tasks.
+
 ---
 
 ### 🧠 Research Interests:
-- Machine/Deep Learning
-- Explainable Artificial Intelligence (XAI)
-- LLM
-- AI in Medicine/Healthcare
-- Medical/Biomedical Image Analysis and Processing
+
+-  Machine Learning and Deep Learning  
+-  Explainable AI (XAI), Interpretable ML  
+-  Large Language Models (LLMs)  
+-  Biomedical and Medical Image Processing  
+-  AI in Healthcare
 
 ---
   
