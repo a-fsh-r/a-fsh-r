@@ -5,7 +5,7 @@
     </u>
 </h1>
 
-🎓 I recently completed **my Master of Science in Computer Engineering – Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/), where I worked as a **Graduate Research Assistant** during my studies.
+🎓 I recently completed my **Master of Science in Computer Engineering – Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/), where I worked as a **Graduate Research Assistant** during my studies.
 
 During this time, I was involved in research at two laboratories:
 
