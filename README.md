@@ -23,15 +23,7 @@ During this time, I was involved in research at two laboratories:
 
 -  Machine Learning and Deep Learning  
 -  Explainable AI (XAI), Interpretable ML  
--  Large Language Models (LLMs)  
 -  Biomedical and Medical Image Processing  
 -  AI in Healthcare
 
 ---
-  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-fsh-r&theme=algolia)
-
-<!---
-a-fsh-r/a-fsh-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
