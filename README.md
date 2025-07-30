@@ -25,5 +25,3 @@ During this time, I was involved in research at two laboratories:
 -  Explainable AI (XAI), Interpretable ML  
 -  Biomedical and Medical Image Processing  
 -  AI in Healthcare
-
----
