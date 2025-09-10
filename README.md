@@ -21,7 +21,8 @@ During this time, I was involved in research at two laboratories:
 
 ### 🧠 Research Interests:
 
--  Machine Learning and Deep Learning  
--  Explainable AI (XAI), Interpretable ML  
--  Biomedical and Medical Image Processing  
--  AI in Healthcare
+- Machine Learning / Deep Learning
+- Computer Vision
+- Trustworthy ML / Explainable AI (XAI)
+- Image Processing (General, Medical, and Biomedical)
+- AI in Healthcare
