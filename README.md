@@ -15,7 +15,7 @@ During this time, I was involved in research at two laboratories:
 
 - 🤖 **Robust and Interpretable Machine Learning Laboratory (RIML)**  
   *Department of Computer Engineering*  
-  My work focused on interpretable and robust machine learning models, particularly for bioinformatics and computer vision tasks.
+  My work focused on interpretable and robust machine learning models, particularly for medical image analysis and computer vision tasks.
 
 ---
 
@@ -23,6 +23,7 @@ During this time, I was involved in research at two laboratories:
 
 - Machine Learning / Deep Learning
 - Computer Vision
+- Medical Image Analysis
 - Trustworthy ML / Explainable AI (XAI)
 - Image Processing (General, Medical, and Biomedical)
 - AI in Healthcare
