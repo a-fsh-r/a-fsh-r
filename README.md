@@ -9,11 +9,11 @@
 
 During this time, I was involved in research at two laboratories:
 
-- 🩺 **Biomedical Signal and Image Processing Laboratory (BiSIPL)**  
+- 🩺 **Biomedical Signal and Image Processing Laboratory (BiSIPL) - EE Dept.**  
   *Department of Electrical Engineering*   
   I worked on biomedical image analysis using deep learning methods, with a focus on diagnostic applications.
 
-- 🤖 **Robust and Interpretable Machine Learning Laboratory (RIML)**  
+- 🤖 **Robust and Interpretable Machine Learning Laboratory (RIML) - CE Dept.**  
   *Department of Computer Engineering*  
   My work focused on interpretable and robust machine learning models, particularly for medical image analysis and computer vision tasks.
 
