@@ -29,5 +29,4 @@ During this time, I was involved in research at two laboratories:
 - AI for Healthcare
 
 ---
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a-fsh-r&theme=react-dark&hide_border=true&area=true&line=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a-fsh-r&theme=dracula)](https://github.com/a-fsh-r/github-readme-activity-graph)
