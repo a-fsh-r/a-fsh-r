@@ -30,4 +30,4 @@ During this time, I was involved in research at two laboratories:
 
 ---
 
-![GitHub Contributions](https://github.com/a-fsh-r.png?size=200)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a-fsh-r&theme=react-dark&hide_border=true&area=true&line=true)
