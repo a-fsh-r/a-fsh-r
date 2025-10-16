@@ -28,6 +28,4 @@ During this time, I was involved in research at two laboratories:
 - Image Processing (General, Medical, and Biomedical)
 - AI for Healthcare
 
----
-[![َAfshR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a-fsh-r&theme=react-dark&from=2024-01-01&to=2025-10-15](https://github.com/a-fsh-r/github-readme-activity-graph)
 
