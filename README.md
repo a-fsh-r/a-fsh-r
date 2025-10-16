@@ -27,3 +27,7 @@ During this time, I was involved in research at two laboratories:
 - Trustworthy ML / Explainable AI (XAI)
 - Image Processing (General, Medical, and Biomedical)
 - AI for Healthcare
+
+---
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a-fsh-r&theme=react-dark&area=true)
