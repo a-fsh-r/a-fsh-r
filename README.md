@@ -24,7 +24,6 @@ During this time, I was involved in research at two laboratories:
 - Machine Learning / Deep Learning
 - Computer Vision
 - Image Processing (General, Medical, and Biomedical)
-- Medical Image Analysis
 - Trustworthy ML / Explainable AI (XAI)
 - AI for Healthcare
 
