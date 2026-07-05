@@ -1,4 +1,4 @@
-<h3 align="center">MSc in Bioinformatics at Sharif University of Technology</h3>
+<h3 align="center">MSc in Bioinformatics/AI at Sharif University of Technology</h3>
 
 <p align="center">
   Interested in AI for Healthcare and Medical Applications
