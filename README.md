@@ -1,7 +1,7 @@
-<p>MSc in Bioinformatics/AI at Sharif University of Technology</p>
+<p>MSc in Bioinformatics/AI at Sharif University of Technology.</p>
 
 <p>
-  Interested in AI for Healthcare and Medical Applications
+  Interested in AI for Healthcare and Medical Applications: 
 </p>
 
 <p>
