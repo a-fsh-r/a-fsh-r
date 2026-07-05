@@ -1,19 +1,5 @@
-- **Biomedical Signal and Image Processing Laboratory (BiSIPL) - SUT**  
-  *Department of Electrical Engineering*   
-  Biomedical image analysis using deep learning methods.
+## Research Interests
 
-- **Robust and Interpretable Machine Learning Laboratory (RIML) - SUT**  
-  *Department of Computer Engineering*  
-  XAI.
+I am interested in developing trustworthy and interpretable AI methods for computer vision and healthcare applications, with a particular focus on medical imaging and digital pathology.
 
----
-
-### Research Interests:
-
-- Machine Learning / Deep Learning
-- Computer Vision
-- Image Processing (General, Medical, and Biomedical)
-- Trustworthy ML / Explainable AI (XAI)
-- AI for Healthcare
-
-
+`Deep Learning` · `Computer Vision` · `Medical Image Analysis` · `Digital Pathology` · `Explainable AI` · `Generative AI` · `AI for Healthcare`
