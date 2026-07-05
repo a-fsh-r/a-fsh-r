@@ -1,10 +1,14 @@
-### Research Interests
+<h3 align="center">MSc in Bioinformatics at Sharif University of Technology</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Medical%20Imaging-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital%20Pathology-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=flat-square" />
+<p align="center">
+  Interested in AI for Healthcare and Medical Applications
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medical%20Imaging-0A66C2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Pathology-0A66C2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-0A66C2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-0A66C2?style=flat-square&logoColor=white" />
 </p>
